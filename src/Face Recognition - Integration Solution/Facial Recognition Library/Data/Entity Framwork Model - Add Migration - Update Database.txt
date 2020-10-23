@@ -1,0 +1,8 @@
+﻿
+
+DECEMBER 6 2017
+EntityFramework\add-migration -name Add-MyPerson-MyPersonFace
+
+EntityFramework\add-migration -name Add-ApplicationUser-UpdateMyFace
+
+EntityFramework\update-database
